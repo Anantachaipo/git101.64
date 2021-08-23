@@ -2,4 +2,7 @@
 
 int main(){
     printf("Hello git");
+    printf("Hello git");
+    printf("Hello git");
+    printf("Hello git");
 }
